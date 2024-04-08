@@ -64,3 +64,38 @@ header {
 .nav-item {
     list-style-type: none; /* Elimina los marcadores de lista */
 }
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* Estilo para el título */
+.title {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Estilos para la sección de proyectos */
+#proyectos {
+    width: 80%;
+    margin: auto;
+}
+
+#proyectos h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#proyectos table {
+    width: 100%;
+}
+
+#proyectos td {
+    padding: 10px;
+}
+
+#proyectos img {
+    width: 100px;
+    height: 100px;
+}
